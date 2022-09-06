@@ -2,17 +2,30 @@ title:This is a compiled collection of weapons with high aim assist intended for
 description:ChairmanChu's list of weapons to find.
 
 // Auto-Rifles
-//kinetic - Chroma Rush
+//kinetic
 dimwishlist:item=1119734784
-//Arc
+//arc
 dimwishlist:item=1248372789
-//Solar
+//solar
 dimwishlist:item=3514144928
-//Stasis
+//stasis
 dimwishlist:item=2852052802
-//Void
+//void
 dimwishlist:item=821154603
 dimwishlist:item=3385326721
+
+//Bows
+//kinetic
+dimwishlist:item=2513965917
+dimwishlist:item=1399109800
+//arc
+dimwishlist:item=720351795
+//solar
+dimwishlist:item=2721249463
+//stasis
+
+//void
+dimwishlist:item=3460122497
 
 //Hand Cannons
 //kinetic
