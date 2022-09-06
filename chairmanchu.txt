@@ -1,1 +1,6 @@
+title:This is a compiled collection of weapons with high aim assist intended for controllers.
+description:ChairmanChu's list of weapons to find.
+
+// Auto-Rifles
+//Chroma Rush
 dimwishlist:item=1119734784&perks=1482024992,3230963543,1570042021,3425386926
