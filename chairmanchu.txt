@@ -11,3 +11,18 @@ dimwishlist:item=3514144928
 //Stasis
 dimwishlist:item=2852052802
 //Void
+dimwishlist:item=821154603
+dimwishlist:item=3385326721
+
+//Hand Cannons
+//kinetic
+dimwishlist:item=1216319404
+/Arc
+dimwishlist:item=372697604
+//Solar
+dimwishlist:item=6857689
+//Stasis
+dimwishlist:item=1856262127
+dimwishlist:item=1622998472
+//Void
+dimwishlist:item=3866356643
