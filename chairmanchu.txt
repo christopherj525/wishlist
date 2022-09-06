@@ -2,5 +2,12 @@ title:This is a compiled collection of weapons with high aim assist intended for
 description:ChairmanChu's list of weapons to find.
 
 // Auto-Rifles
-//Chroma Rush
-dimwishlist:item=1119734784&perks=1482024992,3230963543,1570042021,3425386926
+//kinetic - Chroma Rush
+dimwishlist:item=1119734784
+//Arc
+dimwishlist:item=1248372789
+//Solar
+dimwishlist:item=3514144928
+//Stasis
+dimwishlist:item=2852052802
+//Void
